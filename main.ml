@@ -8,7 +8,7 @@ Due: 10pm PT on 23 October, 2023
 
 (***************************************************************************************************
 - Your name: Aaron Dardik
-- Your partner's name (if any): __________
+- Your partner's name (if any): Vineet Agarwal
   Comments: Earlier, the parser in question 3 was able
   to parse all the commands. Currently it can parse assignment
   as well as sequence but can't parse the others (I know the issue
